@@ -4,4 +4,4 @@ En este proyecto se almacenan archivos CRL de descarga pública que posibilitan 
 
 Está publicado en GitHub Pages para posibilitar el acceso directo a dichos archivos en la ruta siguiente:
 
-[http://](https://irenuncio.github.io/crl/<nombre-del-archivo>)
+**https://irenuncio.github.io/crl/<nombre-del-archivo>**
